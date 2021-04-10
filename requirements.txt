@@ -2,7 +2,7 @@ numpy
 tqdm
 glog
 easydict
-tensorflow_gpu
+tensorflow-gpu==1.14.0
 matplotlib
 opencv
 scikit_learn
